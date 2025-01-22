@@ -1,8 +1,15 @@
 ---
-layout: archive
+layout: default
+title: Blog
 ---
 
-{{ content }}
+<!-- <ul>
+  {% for blog in site.blog %}
+  <li>
+    <a href="{{ blog.url }}">{{ blog.title }}</a>
+  </li>
+  {% endfor %}
+</ul> -->
 
 <ul class="taxonomy__index">
   {% assign blogInYear = site.blog | where_exp: "item", "item.hidden != true" |

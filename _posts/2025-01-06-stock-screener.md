@@ -1,10 +1,11 @@
 ---
-layout: posts
+layout: projects
 date: 2025-01-06
 project-date: 2025-01-06
 title: "Building a Custom Stock Screener with AWS, Python, Docker and Tableau!"
 category: projects
 description: Automating What Warren Buffett Looks for in Financial Statements
+author: Falak Jain
 ---
 
 Recently, I published a new project on Medium about automating what Warren Buffet looks for in financial statements. In this project, I explored how to effectively integrate cloud services, programming, and data visualization tools to create a custom stock screener.
