@@ -6,3 +6,5 @@ category: blog
 ---
 
 Sample Blog
+
+![Paulsbo Downtown with Shops and Bakeries](https://i.imgur.com/tKk6hy9.jpg)
